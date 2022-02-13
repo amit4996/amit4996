@@ -9,13 +9,9 @@
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
-- 🤝 I’m looking for help with **C++,Javascript,React,DS-Algo**
-
 - 👨‍💻 All of my projects are available at [https://github.com/amit4996](https://github.com/amit4996)
 
 - 📫 How to reach me **amitkumaroffic@gmail.com**
-
-- 📄 Know about my experiences [https://www.overleaf.com/read/mctkhdcxybxw](https://www.overleaf.com/read/mctkhdcxybxw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
