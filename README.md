@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate frontend developer and coding enthusiast from India 🇮🇳</h3>
+<h3 align="center">A passionate backend developer and coding enthusiast from India 🇮🇳</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit4996" alt="amit4996" /></a> </p>
 
-- 🔭 I’m currently working on **FRONT-END DEVELOPMENT**
+- 🔭 I’m currently working on **BACK-END DEVELOPMENT**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **AI,ML and Cloud**
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
