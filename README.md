@@ -68,7 +68,7 @@ const amit = {
 - 🔧 **Built systems** handling 500+ records with 99.9% uptime
 - 🌱 **Learning:** AI/ML and Cloud Technologies
 - 💡 **Open to collaborate** on innovative open-source projects
-- 📫 **Reach me at:** <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="94f5f9fde0ffe1f9f5e6fbf2f2fdf7d4f3f9f5fdf8baf7fbf9">[email&#160;protected]</a>
+- 📫 **Reach me at:** [amitkumaroffic@gmail.com](mailto:amitkumaroffic@gmail.com)
 
 <br/>
 
@@ -283,9 +283,9 @@ const amit = {
   <a href="https://linkedin.com/in/amit4996">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="/cdn-cgi/l/email-protection#ddbcb0b4a9b6a8b0bcafb2bbbbb4be9dbab0bcb4b1f3beb2b0">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:amitkumaroffic@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
   <a href="https://github.com/amit4996">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -293,7 +293,7 @@ const amit = {
 
 <p align="center">
   📍 <strong>Location:</strong> Bengaluru, Karnataka, India<br>
-  📧 <strong>Email:</strong> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="20414d49544b554d41524f4646494360474d41494c0e434f4d">[email&#160;protected]</a><br>
+  📧 <strong>Email:</strong> <a href="mailto:amitkumaroffic@gmail.com">amitkumaroffic@gmail.com</a><br>
   💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/amit4996">amit4996</a><br>
   🐱 <strong>GitHub:</strong> <a href="https://github.com/amit4996">amit4996</a>
 </p>
