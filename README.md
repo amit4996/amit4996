@@ -1,33 +1,44 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38C2FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kumar;Full-Stack+Software+Engineer+%F0%9F%9A%80;Microservices+Architect+%E2%9A%99%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6B6B,50:EE5A6F,100:C06C84&height=200&section=header&text=Hi%20👋%20I'm%20Amit%20Kumar&fontSize=40&fontColor=fff&animation=blinking&fontAlignY=45&desc=Full-Stack%20Software%20Engineer%20|%20Microservices%20Architect&descAlignY=65&descSize=16" alt="Header"/>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&width=435&lines=Full-Stack+Developer+%7C+Oracle;2%2B+Years+of+Experience;Java+%7C+Spring+Boot+%7C+React;Microservices+%7C+Kafka+%7C+Cloud" alt="Typing SVG" />
-</h3>
+<div align="center">
+
+### 🎯 Building Scalable Solutions | 💼 2+ Years @ Oracle | 🚀 Microservices Expert
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=F64F59&center=true&vCenter=true&repeat=true&width=800&lines=Java+%E2%98%95+Spring+Boot+%F0%9F%8D%83+React.js+%E2%9A%9B%EF%B8%8F;Apache+Kafka+%F0%9F%93%A1+Docker+%F0%9F%90%B3+Kubernetes+%E2%98%B8%EF%B8%8F;99.9%25+Uptime+%E2%9C%85+20%25+Performance+Gain+%F0%9F%93%88;Microservices+Architecture+%F0%9F%8F%97%EF%B8%8F+Event-Driven+Design+%E2%9A%A1" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/amit4996" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:amitkumaroffic@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/amit4996">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/amit4996" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=amit4996&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amit4996&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Microservices%20Architecture-blue?style=flat-square&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=flat-square&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-green?style=flat-square&logo=calendar" />
+  <img src="https://img.shields.io/badge/Company-Oracle-red?style=flat-square&logo=oracle" />
+</p>
+
+<br/>
+
+---
+
+<br/>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
 const amit = {
@@ -57,9 +68,13 @@ const amit = {
 - 🔧 **Built systems** handling 500+ records with 99.9% uptime
 - 🌱 **Learning:** AI/ML and Cloud Technologies
 - 💡 **Open to collaborate** on innovative open-source projects
-- 📫 **Reach me at:** amitkumaroffic@gmail.com
+- 📫 **Reach me at:** <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="94f5f9fde0ffe1f9f5e6fbf2f2fdf7d4f3f9f5fdf8baf7fbf9">[email&#160;protected]</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+---
+
+<br/>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -115,7 +130,11 @@ const amit = {
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+---
+
+<br/>
 
 ## 🏆 Featured Projects
 
@@ -176,7 +195,11 @@ const amit = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+---
+
+<br/>
 
 ## 💼 Work Experience
 
@@ -198,7 +221,11 @@ const amit = {
 - 🤖 Automated test flows using **Selenium**
 - 🚀 Enhanced CI/CD pipeline with **Jenkins**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+---
+
+<br/>
 
 ## 📊 GitHub Statistics
 
@@ -220,7 +247,11 @@ const amit = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit4996&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+---
+
+<br/>
 
 ## 🎯 Core Competencies
 
@@ -244,7 +275,11 @@ const amit = {
   <img src="https://img.shields.io/badge/Performance_Optimization-4D96FF?style=for-the-badge&logoColor=white"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+---
+
+<br/>
 
 ## 📈 Contribution Snake
 
@@ -254,7 +289,11 @@ const amit = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amit4996/amit4996/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+---
+
+<br/>
 
 ## 🏅 Achievements
 
@@ -262,7 +301,11 @@ const amit = {
   <img src="https://github-profile-trophy.vercel.app/?username=amit4996&theme=tokyonight&no-frame=true&column=7&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+---
+
+<br/>
 
 ## 📫 Connect With Me
 
@@ -270,7 +313,7 @@ const amit = {
   <a href="https://linkedin.com/in/amit4996">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:amitkumaroffic@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#ddbcb0b4a9b6a8b0bcafb2bbbbb4be9dbab0bcb4b1f3beb2b0">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/amit4996">
@@ -280,12 +323,16 @@ const amit = {
 
 <p align="center">
   📍 <strong>Location:</strong> Bengaluru, Karnataka, India<br>
-  📧 <strong>Email:</strong> amitkumaroffic@gmail.com<br>
+  📧 <strong>Email:</strong> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="20414d49544b554d41524f4646494360474d41494c0e434f4d">[email&#160;protected]</a><br>
   💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/amit4996">amit4996</a><br>
   🐱 <strong>GitHub:</strong> <a href="https://github.com/amit4996">amit4996</a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
   
@@ -297,10 +344,4 @@ const amit = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h2 align="center">⚡ "Building scalable solutions, one microservice at a time" ⚡</h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<
