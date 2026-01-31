@@ -38,26 +38,30 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```javascript
+<table border="0">
+  <tr>
+    <td width="60%" valign="top" >
+      <pre>
 const amit = {
-    location: "Bengaluru, India 🇮🇳",
-    company: "Oracle",
-    role: "Associate Software Engineer",
-    experience: "2+ years",
-    code: ["Java", "JavaScript", "TypeScript", "Python"],
-    technologies: {
-        backend: ["Spring Boot", "Node.js", "Apache Kafka"],
-        frontend: ["React.js", "HTML5", "CSS3"],
-        databases: ["MongoDB", "MySQL", "Oracle"],
-        devOps: ["Docker", "Kubernetes", "Jenkins", "Git"],
-        architecture: ["Microservices", "Event-Driven", "REST APIs"]
-    },
-    currentFocus: "AI/ML and Cloud Technologies ☁️",
-    funFact: "I turn coffee into code ☕️"
+  location: "Bengaluru, IN 🇮🇳",
+  company: "Oracle",
+  role: "Associate SDE",
+  experience: "2+ years",
+  code: ["Java", "JS", "TS"],
+  tech: {
+    backend: ["Spring", "Kafka"],
+    devOps: ["Docker", "K8s"]
+  },
+  focus: "AI/ML & Cloud ☁️"
 };
-```
+      </pre>
+    </td>
+    <td width="40%" valign="middle">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+    </td>
+  </tr>
+</table>
+
 
 <br clear="right"/>
 
