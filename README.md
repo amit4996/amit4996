@@ -305,13 +305,11 @@ const amit = {
 <br/>
 
 ---
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7EE787&background=0D1117&multiline=true&width=900&lines=amit@dev:~$+curl+-X+GET+%22https://api.amit.dev/humor%3Ftype%3Dprogramming%22;%7B%0A++%22status%22%3A+%22success%22%2C%0A++%22payload%22%3A+%22Code+never+lies%2C+comments+sometimes+do.%22%0A%7D"
+  />
+</p>
 
-<br/>
 
-<div align="center">
-  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
