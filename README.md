@@ -277,36 +277,6 @@ const amit = {
 
 <br/>
 
----
-
-<br/>
-
-## 📈 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amit4996/amit4996/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amit4996/amit4996/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amit4996/amit4996/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
----
-
-<br/>
-
-## 🏅 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit4996&theme=tokyonight&no-frame=true&column=7&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
----
-
-<br/>
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -339,9 +309,6 @@ const amit = {
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 </div>
 
-<
+<br/>
