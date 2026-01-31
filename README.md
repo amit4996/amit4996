@@ -38,7 +38,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="460" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
 const amit = {
