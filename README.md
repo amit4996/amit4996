@@ -120,7 +120,7 @@ Full-stack application for comprehensive employee record management
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amit4996&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amit4996&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 🎯 Core Competencies
