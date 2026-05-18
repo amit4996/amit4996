@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🎯 Building Scalable Solutions | 💼 2+ Years @ Oracle | 🚀 Microservices Expert
+### 🎯 Building Scalable Solutions | 💼 MTS II @ Nielsen | 🚀 Microservices Expert
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=F64F59&center=true&vCenter=true&repeat=true&width=800&lines=Java+%E2%98%95+Spring+Boot+%F0%9F%8D%83+React.js+%E2%9A%9B%EF%B8%8F;Apache+Kafka+%F0%9F%93%A1+Docker+%F0%9F%90%B3+Kubernetes+%E2%98%B8%EF%B8%8F;99.9%25+Uptime+%E2%9C%85+20%25+Performance+Gain+%F0%9F%93%88;Microservices+Architecture+%F0%9F%8F%97%EF%B8%8F+Event-Driven+Design+%E2%9A%A1" alt="Typing SVG" />
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Focus-Microservices%20Architecture-blue?style=flat-square&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=flat-square&logo=googlemaps" />
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-green?style=flat-square&logo=calendar" />
-  <img src="https://img.shields.io/badge/Company-Oracle-red?style=flat-square&logo=oracle" />
+  <img src="https://img.shields.io/badge/Company-Nielsen-1565C0?style=flat-square&logo=nielseniq" />
 </p>
 
 <br/>
@@ -44,13 +44,14 @@
       <pre>
 const amit = {
   location: "Bengaluru, IN 🇮🇳",
-  company: "Oracle",
-  role: "Associate SDE",
-  experience: "2+ years",
+  company: "Nielsen",
+  role: "Member of Technical Staff II",
+  experience: "3+ years",
   code: ["Java", "JS", "TS"],
   tech: {
     backend: ["Spring", "Kafka"],
-    devOps: ["Docker", "K8s"]
+    devOps: ["Docker", "K8s"],
+    cloud: ["AWS"]
   },
   focus: "AI/ML & Cloud ☁️"
 };
@@ -65,7 +66,7 @@ const amit = {
 
 <br clear="right"/>
 
-- 🏢 **Currently working at** Oracle as Associate Software Engineer
+- 🏢 **Currently working at** Nielsen as Member of Technical Staff II
 - 💼 **Specialized in** Microservices Architecture, RESTful APIs, and Event-Driven Systems
 - 🎓 **Education:** B.Tech from NIT Agartala (GPA: 8.78)
 - 📈 **Achievement:** Improved system performance by 20% through API optimization
@@ -207,10 +208,20 @@ const amit = {
 
 ## 💼 Work Experience
 
+<img src="https://img.shields.io/badge/Nielsen-1565C0?style=for-the-badge&logo=nielseniq&logoColor=white" alt="Nielsen"/>
+
+### 🔹 Member of Technical Staff II | Nielsen
+**📅 May 2026 - Present | 📍 Bengaluru, India**
+
+- 🚀 Working on scalable data and analytics platforms
+- 💡 Contributing to engineering excellence and technical growth
+
+---
+
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 
 ### 🔹 Associate Software Engineer | Oracle
-**📅 Aug 2023 - Present | 📍 Bengaluru, India**
+**📅 Aug 2023 - May 2026 | 📍 Bengaluru, India**
 
 - 🚀 Modernized batch payment workflows using **Oracle JET**, reducing processing times
 - ⚡ Developed **RESTful APIs** with **Apache Kafka** integration achieving **99.9% uptime**
@@ -310,6 +321,3 @@ const amit = {
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7EE787&background=0D1117&multiline=true&width=900&lines=amit@dev:~$+curl+-X+GET+%22https://api.amit.dev/humor%3Ftype%3Dprogramming%22;%7B%0A++%22status%22%3A+%22success%22%2C%0A++%22payload%22%3A+%22Code+never+lies%2C+comments+sometimes+do.%22%0A%7D"
   />
 </p>
-
-
-
