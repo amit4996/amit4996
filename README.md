@@ -1,12 +1,13 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6B6B,50:EE5A6F,100:C06C84&height=200&section=header&text=Hi%20👋%20I'm%20Amit%20Kumar&fontSize=40&fontColor=fff&animation=blinking&fontAlignY=45&desc=Full-Stack%20Software%20Engineer%20|%20Microservices%20Architect&descAlignY=65&descSize=16" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF6B6B,50:EE5A6F,100:C06C84&height=200&section=header&text=Hi%20👋%20I'm%20Amit%20Kumar&fontSize=40&fontColor=fff&animation=blinking&fontAlignY=45&desc=Associate%20(SDE%20II)%20%7C%20Software%20Engineer&descAlignY=65&descSize=16" alt="Header"/>
 </p>
 
 <div align="center">
 
-### 🎯 Building Scalable Solutions | 💼 MTS II @ Nielsen | 🚀 Microservices Expert
+### 🎯 Building Scalable Systems | 💼 Associate (SDE II) @ Goldman Sachs | 🚀 Backend & Distributed Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=F64F59&center=true&vCenter=true&repeat=true&width=800&lines=Java+%E2%98%95+Spring+Boot+%F0%9F%8D%83+React.js+%E2%9A%9B%EF%B8%8F;Apache+Kafka+%F0%9F%93%A1+Docker+%F0%9F%90%B3+Kubernetes+%E2%98%B8%EF%B8%8F;99.9%25+Uptime+%E2%9C%85+20%25+Performance+Gain+%F0%9F%93%88;Microservices+Architecture+%F0%9F%8F%97%EF%B8%8F+Event-Driven+Design+%E2%9A%A1" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=F64F59&center=true&vCenter=true&repeat=true&width=800&lines=Java+☕+Spring+Boot+🍃+React.js+⚛️;Apache+Kafka+📡+Docker+🐳+Kubernetes+☸️;Distributed+Systems+🌐+Microservices+🏗️;System+Design+🧩+Event-Driven+Architecture+⚡" alt="Typing SVG" /> -->
 
 </div>
 
@@ -24,10 +25,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Microservices%20Architecture-blue?style=flat-square&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-blue?style=flat-square&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-orange?style=flat-square&logo=googlemaps" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-green?style=flat-square&logo=calendar" />
-  <img src="https://img.shields.io/badge/Company-Nielsen-1565C0?style=flat-square&logo=nielseniq" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-green?style=flat-square&logo=calendar" />
+  <img src="https://img.shields.io/badge/Company-Goldman%20Sachs-000000?style=flat-square&logo=goldmansachs&logoColor=white" />
 </p>
 
 <br/>
@@ -40,20 +41,21 @@
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top" >
+    <td width="60%" valign="top">
       <pre>
 const amit = {
   location: "Bengaluru, IN 🇮🇳",
-  company: "Nielsen",
-  role: "Member of Technical Staff II",
+  company: "Goldman Sachs",
+  role: "Associate (SDE II)",
   experience: "3+ years",
-  code: ["Java", "JS", "TS"],
+  code: ["Java", "JavaScript", "TypeScript"],
   tech: {
-    backend: ["Spring", "Kafka"],
-    devOps: ["Docker", "K8s"],
+    backend: ["Spring Boot", "Kafka"],
+    frontend: ["React.js"],
+    devOps: ["Docker", "Kubernetes"],
     cloud: ["AWS"]
   },
-  focus: "AI/ML & Cloud ☁️"
+  focus: "Distributed Systems & System Design ☁️"
 };
       </pre>
     </td>
@@ -63,17 +65,16 @@ const amit = {
   </tr>
 </table>
 
-
 <br clear="right"/>
 
-- 🏢 **Currently working at** Nielsen as Member of Technical Staff II
-- 💼 **Specialized in** Microservices Architecture, RESTful APIs, and Event-Driven Systems
-- 🎓 **Education:** B.Tech from NIT Agartala (GPA: 8.78)
-- 📈 **Achievement:** Improved system performance by 20% through API optimization
-- 🔧 **Built systems** handling 500+ records with 99.9% uptime
-- 🌱 **Learning:** AI/ML and Cloud Technologies
-- 💡 **Open to collaborate** on innovative open-source projects
-- 📫 **Reach me at:** [amitkumaroffic@gmail.com](mailto:amitkumaroffic@gmail.com)
+* 🏦 **Currently working at** Goldman Sachs as an **Associate (SDE II)**
+* 💼 **Specialized in** Microservices, RESTful APIs, Event-Driven Systems, and Distributed Systems
+* 🎓 **Education:** B.Tech from NIT Agartala (GPA: 8.78)
+* ⚡ **Experience:** 3+ years building scalable backend and full-stack applications
+* 🔧 **Worked with** Java, Spring Boot, Kafka, React, Docker, Kubernetes, and AWS
+* 🧩 **Interested in** System Design, Distributed Systems, Cloud Architecture, and AI/ML
+* 💡 **Open to collaborate** on innovative open-source projects
+* 📫 **Reach me at:** <a href="mailto:amitkumaroffic@gmail.com">[amitkumaroffic@gmail.com](mailto:amitkumaroffic@gmail.com)</a>
 
 <br/>
 
@@ -92,6 +93,7 @@ const amit = {
 </p>
 
 ### 💻 Languages
+
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -102,6 +104,7 @@ const amit = {
 </p>
 
 ### 🚀 Frameworks & Libraries
+
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -110,6 +113,7 @@ const amit = {
 </p>
 
 ### 🗄️ Databases
+
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -118,6 +122,7 @@ const amit = {
 </p>
 
 ### ☁️ DevOps & Tools
+
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -128,6 +133,7 @@ const amit = {
 </p>
 
 ### 🧪 Testing
+
 <p>
   <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
   <img alt="Mockito" src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge"/>
@@ -148,6 +154,7 @@ const amit = {
 <td width="50%">
 
 ### 🏥 Healthcare Insights
+
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/>
@@ -157,23 +164,27 @@ const amit = {
 **Microservices-based healthcare application**
 
 🎯 **Features:**
-- Patient management system
-- Billing services module
-- Analytics dashboard
-- Secure authentication
+
+* Patient management system
+* Billing services module
+* Analytics dashboard
+* Secure authentication
 
 ⚙️ **Architecture:**
-- Event-driven with Kafka
-- gRPC inter-service communication
-- API Gateway routing
-- Independent deployments
+
+* Event-driven with Kafka
+* gRPC inter-service communication
+* API Gateway routing
+* Independent deployments
 
 📊 **Impact:** Scalable microservices architecture
 
 </td>
+
 <td width="50%">
 
 ### 👥 Employee Management System
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
@@ -183,16 +194,18 @@ const amit = {
 **Full-stack employee management solution**
 
 🎯 **Features:**
-- Secure JWT authentication
-- Automated workflows
-- Real-time updates
-- Complete CRUD operations
+
+* Secure JWT authentication
+* Automated workflows
+* Real-time updates
+* Complete CRUD operations
 
 ⚙️ **Tech Stack:**
-- React.js frontend
-- Node.js + Express backend
-- MongoDB database
-- RESTful API design
+
+* React.js frontend
+* Node.js + Express backend
+* MongoDB database
+* RESTful API design
 
 📊 **Impact:** 20% increase in task completion
 
@@ -208,33 +221,45 @@ const amit = {
 
 ## 💼 Work Experience
 
-<img src="https://img.shields.io/badge/Nielsen-1565C0?style=for-the-badge&logo=nielseniq&logoColor=white" alt="Nielsen"/>
+### 🔹 Associate (SDE II) | Goldman Sachs
 
-### 🔹 Member of Technical Staff II | Nielsen
-**📅 May 2026 - Present | 📍 Bengaluru, India**
+**📅 July 2026 - Present | 📍 Bengaluru, India**
 
-- 🚀 Working on scalable data and analytics platforms
-- 💡 Contributing to engineering excellence and technical growth
+* 🚀 Building and maintaining scalable software systems within Goldman Sachs Engineering
+* 💡 Working on backend engineering, distributed systems, and cloud technologies
+* 🧩 Designing and developing robust services using modern software engineering practices
+* ⚡ Contributing to high-performance, reliable, and scalable applications
 
 ---
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+### 🔹 Member of Technical Staff II | Nielsen
+
+**📅 May 2026 - July 2026 | 📍 Bengaluru, India**
+
+* 🚀 Worked on scalable data and analytics platforms
+* 💡 Contributed to engineering excellence and technical initiatives
+
+---
 
 ### 🔹 Associate Software Engineer | Oracle
+
 **📅 Aug 2023 - May 2026 | 📍 Bengaluru, India**
 
-- 🚀 Modernized batch payment workflows using **Oracle JET**, reducing processing times
-- ⚡ Developed **RESTful APIs** with **Apache Kafka** integration achieving **99.9% uptime**
-- 🔧 Resolved critical **BRM and BillingCare** issues ensuring minimal downtime
-- 📈 Improved system performance through optimization and automation
+* 🚀 Modernized batch payment workflows using **Oracle JET**, reducing processing times
+* ⚡ Developed **RESTful APIs** with **Apache Kafka** integration achieving **99.9% uptime**
+* 🔧 Resolved critical **BRM and BillingCare** issues ensuring minimal downtime
+* 📈 Improved system performance through optimization and automation
 
 ### 🔹 Project Intern | Oracle
+
 **📅 Jan 2023 - Jun 2023 | 📍 Bengaluru, India**
 
-- 🔄 Migrated legacy **Lux platform** to **Oracle JET** framework
-- 🛠️ Built custom **SDKs** improving client adaptation and usability
-- 🤖 Automated test flows using **Selenium**
-- 🚀 Enhanced CI/CD pipeline with **Jenkins**
+* 🔄 Migrated legacy **Lux platform** to **Oracle JET** framework
+* 🛠️ Built custom **SDKs** improving client adaptation and usability
+* 🤖 Automated test flows using **Selenium**
+* 🚀 Enhanced CI/CD pipeline with **Jenkins**
+
+---
 
 <br/>
 
@@ -271,23 +296,23 @@ const amit = {
 ## 🎯 Core Competencies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Development-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend%20Development-FF6B6B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-4ECDC4?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_APIs-95E1D3?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-95E1D3?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/Event--Driven-F38181?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System_Design-AA96DA?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-FCBAD3?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Agile/Scrum-FFFFD2?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TDD-A8D8EA?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/System%20Design-AA96DA?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-FCBAD3?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-FFFFD2?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud%20Engineering-A8D8EA?style=for-the-badge&logoColor=black"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/API_Gateway-FFD93D?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/API%20Gateway-FFD93D?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/gRPC-6BCB77?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Performance_Optimization-4D96FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Performance%20Optimization-4D96FF?style=for-the-badge&logoColor=white"/>
 </p>
 
 <br/>
@@ -299,8 +324,8 @@ const amit = {
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:amitkumaroffic@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://github.com/amit4996">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -316,6 +341,7 @@ const amit = {
 <br/>
 
 ---
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7EE787&background=0D1117&multiline=true&width=900&lines=amit@dev:~$+curl+-X+GET+%22https://api.amit.dev/humor%3Ftype%3Dprogramming%22;%7B%0A++%22status%22%3A+%22success%22%2C%0A++%22payload%22%3A+%22Code+never+lies%2C+comments+sometimes+do.%22%0A%7D"
